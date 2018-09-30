@@ -29,4 +29,10 @@
 可以从“图灵社区”本书页面（http://www.ituring.com.cn/book/2007
 
 
-    
+
+---
+
+## others
+
+[Flex布局小练习——携程网 \- 简书](https://www.jianshu.com/p/5a95246f4db1)
+ 
