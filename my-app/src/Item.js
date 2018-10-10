@@ -34,3 +34,12 @@ class LoginControl extends React.Component {
 }
 
 ReactDOM.render(<LoginControl />, document.getElementById("root"));
+
+
+router.list.map(()=>{
+
+  list.forEach(element => {
+
+  });
+
+})
